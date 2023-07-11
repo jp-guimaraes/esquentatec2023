@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Esquentatec 2023</title>
+    <link>https://jp-guimaraes.github.io/esquentatec2023/home/</link>
+    <description>Recent content in Homes on Esquentatec 2023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jp-guimaraes.github.io/esquentatec2023/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/esquentatec2023/home/00_intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/esquentatec2023/home/00_intro/</guid>
+      <description> Objetivos  Apresentar o chatGPT; Com suas virtudes e limitações; Em especial: Uso do ChatGPT como ferramenta de apoio à pesquisa e ao fazer docente   Sumário  Objetivos O que é o chatGPT? O que faz o chatGPT funcionar? Como eu uso o ChatGPT? Uso do ChatGPT no fazer docente Uso do chatGPT na pesquisa Dicas e casos de uso   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/esquentatec2023/home/01_oq_eh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/esquentatec2023/home/01_oq_eh/</guid>
+      <description> 1. O que é o chatGPT?  Produto OpenAI O que é a Inteligência Artificial? Conceito de Redes Neurais e Deep Learning PLN LLM   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/esquentatec2023/home/03_como_uso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/esquentatec2023/home/03_como_uso/</guid>
+      <description> 3. Como eu uso o ChatGPT?  Interface: Prompt Exemplos de prompts para automações de tarefas mecânicas simples   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/esquentatec2023/home/02_como_funciona/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/esquentatec2023/home/02_como_funciona/</guid>
+      <description> 2. O que faz o chatGPT funcionar?  Treinamento de uma rede neural Aplicações de redes neurais  Imagens PLN   Entendendo a pergunta Processo de geração das respostas O que são as versões do chatGPT? Limitações   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/esquentatec2023/home/04_fazer_docente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/esquentatec2023/home/04_fazer_docente/</guid>
+      <description>4. Uso do ChatGPT no fazer docente  Pesquisa/Extensão:  Escrever/revisar um projeto: busca de fomento para pesquisa Escrever/revisar avanços: escrever e revisar artigos científicos Relatórios   Ensino:  Elaboração de questões/aulas/plano de aula/slides Avaliações Analogias Recursos Contexto Dicas de prompts   Desdobramentos com relação aos alunos:  Como avaliar um aluno em julho de 2023? Como deve ser uma ferramenta avaliativa levando em consideração o contexto atual?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/esquentatec2023/home/05_uso_pesquisa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/esquentatec2023/home/05_uso_pesquisa/</guid>
+      <description> 5. Uso do chatGPT na pesquisa  Características do texto científico  Método científico Características do texto Viés do olhar do engenheiro de computação   Melhores práticas para utilizar o ChatGPT na pesquisa científica  geração de texto livre vs estruturação em tópicos Mudança de ordem de apresentação de ideias Reestruturação de parágrafos Escrever pensando em um público alvo específico (revisor científico, político/gestor/aluno?)     </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/esquentatec2023/home/06_dicas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/esquentatec2023/home/06_dicas/</guid>
+      <description> 6. Dicas  Pausa de prompt -&amp;gt; Armazenamento de processamento  7. Plugins  PDF Links etc   </description>
+    </item>
+    
+  </channel>
+</rss>
