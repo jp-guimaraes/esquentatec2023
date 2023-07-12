@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jp-guimaraes.github.io/esquentatec2023/home/00_intro/</guid>
-      <description> Objetivos  Apresentar o chatGPT; Com suas virtudes e limitações; Em especial: Uso do ChatGPT como ferramenta de apoio à pesquisa e ao fazer docente   Sumário  Objetivos O que é o chatGPT? O que faz o chatGPT funcionar? Como eu uso o ChatGPT? Uso do ChatGPT no fazer docente Uso do chatGPT na pesquisa Dicas e casos de uso   </description>
+      <description> Objetivos  Apresentar o chatGPT; Com suas virtudes e limitações; Em especial: Uso do ChatGPT como ferramenta de apoio à pesquisa e ao fazer docente   Sumário  Objetivos O que é o chatGPT? O que faz o chatGPT funcionar? Como eu uso o ChatGPT? Uso do chatGPT na pesquisa Uso do ChatGPT no fazer docente Dicas e casos de uso   </description>
     </item>
     
     <item>
@@ -21,16 +21,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jp-guimaraes.github.io/esquentatec2023/home/01_oq_eh/</guid>
-      <description> 1. O que é o chatGPT?  Produto OpenAI O que é a Inteligência Artificial? Conceito de Redes Neurais e Deep Learning PLN LLM   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jp-guimaraes.github.io/esquentatec2023/home/03_como_uso/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/esquentatec2023/home/03_como_uso/</guid>
-      <description> 3. Como eu uso o ChatGPT?  Interface: Prompt Exemplos de prompts para automações de tarefas mecânicas simples   </description>
+      <description> Quem já ouviu falar em chatgpt?  O que é o chatGPT?   Produto da empresa OpenAI  Fonte
+   O que é a Inteligência Artificial?
+  Conceito de Redes Neurais e Deep Learning
+   Processamento de Linguagem Natural (PLN)
+Large Languagem Models (LLMs)
+ </description>
     </item>
     
     <item>
@@ -39,25 +35,46 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jp-guimaraes.github.io/esquentatec2023/home/02_como_funciona/</guid>
-      <description> 2. O que faz o chatGPT funcionar?  Treinamento de uma rede neural Aplicações de redes neurais  Imagens PLN   Entendendo a pergunta Processo de geração das respostas O que são as versões do chatGPT? Limitações   </description>
+      <description> O que faz o chatGPT funcionar?   Treinamento de uma rede neural    Aplicações de redes neurais  Processamento de Linguagem Natural Imagens      Entendendo a pergunta: prompt Processo de geração das respostas O que são as versões do chatGPT?   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/esquentatec2023/home/04_fazer_docente/</link>
+      <link>https://jp-guimaraes.github.io/esquentatec2023/home/03_como_uso/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jp-guimaraes.github.io/esquentatec2023/home/04_fazer_docente/</guid>
-      <description>4. Uso do ChatGPT no fazer docente  Pesquisa/Extensão:  Escrever/revisar um projeto: busca de fomento para pesquisa Escrever/revisar avanços: escrever e revisar artigos científicos Relatórios   Ensino:  Elaboração de questões/aulas/plano de aula/slides Avaliações Analogias Recursos Contexto Dicas de prompts   Desdobramentos com relação aos alunos:  Como avaliar um aluno em julho de 2023? Como deve ser uma ferramenta avaliativa levando em consideração o contexto atual?</description>
+      <guid>https://jp-guimaraes.github.io/esquentatec2023/home/03_como_uso/</guid>
+      <description>Exemplos de uso do chatGPT   Exemplos de prompts para automações de tarefas mecânicas simples   Prompt: &amp;lsquo;remova os ** antes de cada frase** &#39;
+ ** Objetivos** ** O que é o chatGPT?** ** O que faz o chatGPT funcionar?** ** Como eu uso o ChatGPT?** ** Uso do ChatGPT no fazer docente** ** Uso do chatGPT na pesquisa** ** Dicas e casos de uso**&amp;rsquo;   Gere 20 nomes aleatórios</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/esquentatec2023/home/05_uso_pesquisa/</link>
+      <link>https://jp-guimaraes.github.io/esquentatec2023/home/04_uso_pesquisa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jp-guimaraes.github.io/esquentatec2023/home/05_uso_pesquisa/</guid>
-      <description> 5. Uso do chatGPT na pesquisa  Características do texto científico  Método científico Características do texto Viés do olhar do engenheiro de computação   Melhores práticas para utilizar o ChatGPT na pesquisa científica  geração de texto livre vs estruturação em tópicos Mudança de ordem de apresentação de ideias Reestruturação de parágrafos Escrever pensando em um público alvo específico (revisor científico, político/gestor/aluno?)     </description>
+      <guid>https://jp-guimaraes.github.io/esquentatec2023/home/04_uso_pesquisa/</guid>
+      <description>Uso do chatGPT na pesquisa/extensão Escrever/revisar um projeto: busca de fomento para pesquisa
+Escrever/revisar avanços: escrever e revisar artigos científicos
+Relatórios
+Elaboração de procedimentos metodológicos;
+Organização de Cronogramas e calendários;
+Levantamento de materiais necessários
+ Por que o chatgpt é uma boa ferramenta para auxiliar na escrita de projetos de pesquisa/extensão?
+ Características do texto científico  Método científico Características do texto Viés do olhar do engenheiro de computação   Melhores práticas para utilizar o ChatGPT na pesquisa científica  Dica</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/esquentatec2023/home/05_fazer_docente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/esquentatec2023/home/05_fazer_docente/</guid>
+      <description>Uso do ChatGPT no Ensino  Elaboração de:
+ Aula Plano de aula Questões Práticas Slides   Avaliações/listas de exercícios
+Analogias
+ Dicas  Recursos:
+ Criação de contexto Alteração de nível de dificuldade    Desdobramentos com relação aos alunos:  Como avaliar um aluno hoje (sabendo desses recursos)? Como deve ser uma ferramenta avaliativa levando em consideração o contexto atual?  Como deve ser o estudo levando o contexto atual?</description>
     </item>
     
     <item>
@@ -66,7 +83,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jp-guimaraes.github.io/esquentatec2023/home/06_dicas/</guid>
-      <description> 6. Dicas  Pausa de prompt -&amp;gt; Armazenamento de processamento  7. Plugins  PDF Links etc   </description>
+      <description> 6. Dicas  Pausa de prompt -&amp;gt; Armazenamento de processamento   7. Plugins  PDF Links etc   </description>
     </item>
     
   </channel>
